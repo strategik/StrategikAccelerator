@@ -1,0 +1,2 @@
+# StrategikAccelerator
+Strategik Accelerator
